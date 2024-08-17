@@ -73,11 +73,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "chatt-vatt",
-    des: "Stay connected with anyone, anywhere with our free chat app. Send messages, share photos and videos, and make voice calls - all in one place. It's the easiest way to chat with friends, family, and anyone else in your life.",
+    title: "Fit-Maker",
+    des: "Fitmaker is an innovative platform focused on helping users achieve their fitness goals by providing customized workout plans, making it a comprehensive solution for health and fitness enthusiasts.",
     img: "/chat.svg",
-    iconLists: ["/re.svg", "/materialui.svg", "/javascript.svg", "/vitejs.svg", "/Mongodb.svg"],
-    link: "https://github.com/deepanshuam/Chat-Vatt/",
+    iconLists: ["/re.svg", "/tail.svg", "/javascript.svg", "/vitejs.svg", "/Mongodb.svg"],
+    link: "https://fit-make-front-face.vercel.app/",
   },
   {
     id: 2,
